@@ -2,7 +2,7 @@
 assignment_10: - Create a server template with the express generator
 [My Render Link](https://f23wb56tirumalasetti.onrender.com)
 
-class Fruit {
+class fruit {
     constructor(name, color, quantity) {
         this.name = name;       // string attribute
         this.color = color;     // string attribute
@@ -10,7 +10,7 @@ class Fruit {
     }
 }
 
-const apple = new Fruit("Apple", "Red", 10);
-const banana = new Fruit("Banana", "Yellow", 8);
-const orange = new Fruit("Orange", "Orange", 15);
+const apple = new fruit("Apple", "Red", 10);
+const banana = new fruit("Banana", "Yellow", 8);
+const orange = new fruit("Orange", "Orange", 15);
 
